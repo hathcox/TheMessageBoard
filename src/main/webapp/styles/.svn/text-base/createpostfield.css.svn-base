@@ -1,0 +1,4 @@
+div#CreatePostField
+{
+	display:none;
+}

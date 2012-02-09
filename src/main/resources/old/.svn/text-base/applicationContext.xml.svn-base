@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC 
+	"-//SPRING//DTD BEAN//EN" 
+	"http://www.springframework.org/dtd/spring-beans.dtd">
+	
+<beans>
+    <bean id="createUserAction" class="edu.uat.csc263.su11045.ixk.themessageboard.TheMessageBoard.CreateUserAction" singleton="false" />
+	<bean id="setupDatabaseAction" class="edu.uat.csc263.su11045.ixk.themessageboard.TheMessageBoard.SetupDatabaseAction" singleton="false" />
+	<bean id="ListBoardsAction" class="edu.uat.csc263.su11045.ixk.themessageboard.TheMessageBoard.ListBoardsAction" singleton="false" />
+	<bean id="CreatePostAction" class="edu.uat.csc263.su11045.ixk.themessageboard.TheMessageBoard.CreatePostAction" singleton="false" />
+	<bean id="CreateCommentAction" class="edu.uat.csc263.su11045.ixk.themessageboard.TheMessageBoard.CreateCommentAction" singleton="false" />
+	<bean id="LoginUserAction" class="edu.uat.csc263.su11045.ixk.themessageboard.TheMessageBoard.LoginUserAction" singleton="false" />
+	
+</beans>
+

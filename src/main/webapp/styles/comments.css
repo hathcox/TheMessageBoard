@@ -1,0 +1,25 @@
+.comment {
+	margin-left:4%;
+	font-size: 0.8em;
+	background: #FDEEF4; 
+	padding: 0.9em;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+}
+
+.comment i {
+	font-size:0.7em;
+	}
+.commentComment {
+	margin-left:8%;
+	font-size: 0.8em;
+	background: #FDEEF4; 
+	padding: 0.9em;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	}
+	
+.comment img {
+	width:95%;
+	height:50%;
+	}

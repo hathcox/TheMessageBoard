@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Summer2011/!svn/ver/2763/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/resources
+END
+spring-hibernate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Summer2011/!svn/ver/2763/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/resources/spring-hibernate.xml
+END
+struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Summer2011/!svn/ver/2741/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/resources/struts.xml
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Summer2011/!svn/ver/2615/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/resources/applicationContext.xml
+END
+applicationContext-struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Summer2011/!svn/ver/2741/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/resources/applicationContext-struts.xml
+END
+spring-datasource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Summer2011/!svn/ver/2615/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/resources/spring-datasource.xml
+END
+jdbc.properties
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/Summer2011/!svn/ver/2615/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/resources/jdbc.properties
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Summer2011/!svn/ver/2615/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/resources/log4j.xml
+END

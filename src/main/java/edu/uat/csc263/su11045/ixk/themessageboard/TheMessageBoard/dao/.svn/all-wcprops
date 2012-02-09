@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/Summer2011/!svn/ver/2763/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/java/edu/uat/csc263/su11045/ixk/themessageboard/TheMessageBoard/dao
+END
+GenericDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/Summer2011/!svn/ver/2615/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/java/edu/uat/csc263/su11045/ixk/themessageboard/TheMessageBoard/dao/GenericDao.java
+END
+UserDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/Summer2011/!svn/ver/2739/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/java/edu/uat/csc263/su11045/ixk/themessageboard/TheMessageBoard/dao/UserDao.java
+END
+CommentDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/Summer2011/!svn/ver/2763/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/java/edu/uat/csc263/su11045/ixk/themessageboard/TheMessageBoard/dao/CommentDao.java
+END
+PostDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/Summer2011/!svn/ver/2762/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/java/edu/uat/csc263/su11045/ixk/themessageboard/TheMessageBoard/dao/PostDao.java
+END
+BoardDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/Summer2011/!svn/ver/2615/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/java/edu/uat/csc263/su11045/ixk/themessageboard/TheMessageBoard/dao/BoardDao.java
+END

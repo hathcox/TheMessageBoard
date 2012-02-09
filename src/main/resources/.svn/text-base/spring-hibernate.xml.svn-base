@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:p="http://www.springframework.org/schema/p"
+	xmlns:tx="http://www.springframework.org/schema/tx" xmlns:aop="http://www.springframework.org/schema/aop"
+	xmlns:context="http://www.springframework.org/schema/context" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+                           http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+                           http://www.springframework.org/schema/context
+                           http://www.springframework.org/schema/context/spring-context-3.0.xsd
+                           http://www.springframework.org/schema/tx
+                           http://www.springframework.org/schema/tx/spring-tx-3.0.xsd">
+
+	<!-- Hibernate SessionFactory -->
+	<bean id="sessionFactory" class="org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean"
+		p:dataSource-ref="TheMessageBoardDataSource" p:lobHandler-ref="defaultLobHandler">
+		<property name="annotatedClasses">
+			<list>
+				<value>edu.uat.csc263.su11045.ixk.themessageboard.TheMessageBoard.Board</value>
+				<value>edu.uat.csc263.su11045.ixk.themessageboard.TheMessageBoard.User</value>
+				<value>edu.uat.csc263.su11045.ixk.themessageboard.TheMessageBoard.Post</value>
+				<value>edu.uat.csc263.su11045.ixk.themessageboard.TheMessageBoard.Comment</value>
+			</list>
+		</property>
+
+		<property name="hibernateProperties">
+			<value>
+				hibernate.dialect=${hibernate.dialect}
+				hibernate.jdbc.batch_size=${hibernate.jdbc.batch_size}
+				hibernate.show_sql=${hibernate.show_sql}
+				hibernate.hbm2ddl.auto=update
+			</value>
+		</property>
+	</bean>
+
+	<!-- Database LOB Handling -->
+	<bean id="defaultLobHandler" class="org.springframework.jdbc.support.lob.DefaultLobHandler" />
+
+	<!-- Read in DAOs and the service from the hibernate package -->
+	<context:component-scan base-package="edu.uat.csc263.su11045.ixk.themessageboard.TheMessageBoard">
+		<context:exclude-filter type="annotation" expression="org.springframework.stereotype.Controller" />
+	</context:component-scan>
+
+	<!-- Transaction Configuration -->
+	<bean id="transactionManager" class="org.springframework.orm.hibernate3.HibernateTransactionManager"
+		p:sessionFactory-ref="sessionFactory" />
+
+	<tx:annotation-driven transaction-manager="transactionManager" />
+
+</beans>

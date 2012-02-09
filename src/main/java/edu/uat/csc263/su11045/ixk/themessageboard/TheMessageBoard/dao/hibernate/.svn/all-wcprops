@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/Summer2011/!svn/ver/2763/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/java/edu/uat/csc263/su11045/ixk/themessageboard/TheMessageBoard/dao/hibernate
+END
+GenericDaoHibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/Summer2011/!svn/ver/2615/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/java/edu/uat/csc263/su11045/ixk/themessageboard/TheMessageBoard/dao/hibernate/GenericDaoHibernate.java
+END
+UserDaoHibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/Summer2011/!svn/ver/2739/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/java/edu/uat/csc263/su11045/ixk/themessageboard/TheMessageBoard/dao/hibernate/UserDaoHibernate.java
+END
+CommentDaoHibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/Summer2011/!svn/ver/2763/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/java/edu/uat/csc263/su11045/ixk/themessageboard/TheMessageBoard/dao/hibernate/CommentDaoHibernate.java
+END
+PostDaoHibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/Summer2011/!svn/ver/2762/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/java/edu/uat/csc263/su11045/ixk/themessageboard/TheMessageBoard/dao/hibernate/PostDaoHibernate.java
+END
+BoardDaoHibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/Summer2011/!svn/ver/2615/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/java/edu/uat/csc263/su11045/ixk/themessageboard/TheMessageBoard/dao/hibernate/BoardDaoHibernate.java
+END

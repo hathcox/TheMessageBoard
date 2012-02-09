@@ -1,0 +1,17 @@
+.post {
+	font-size:0.8em;
+	}
+
+.post i {
+	font-size:0.7em;
+	}
+.post p {
+	background: #EBDDE2; 
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	padding: 1.1em;
+}
+.post img {
+	width: 95%;
+	height:50%;
+	}

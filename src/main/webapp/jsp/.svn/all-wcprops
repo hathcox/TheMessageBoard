@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Summer2011/!svn/ver/2957/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/webapp/jsp
+END
+listBoards.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/Summer2011/!svn/ver/2615/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/webapp/jsp/listBoards.jsp
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Summer2011/!svn/ver/2615/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/webapp/jsp/index.jsp
+END
+loginUser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/Summer2011/!svn/ver/2615/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/webapp/jsp/loginUser.jsp
+END
+logoutUser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/Summer2011/!svn/ver/2741/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/webapp/jsp/logoutUser.jsp
+END
+createPost.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/Summer2011/!svn/ver/2615/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/webapp/jsp/createPost.jsp
+END
+createCommentField.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Summer2011/!svn/ver/2763/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/webapp/jsp/createCommentField.jsp
+END
+createBoard.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/Summer2011/!svn/ver/2615/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/webapp/jsp/createBoard.jsp
+END
+registerFailure.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Summer2011/!svn/ver/2957/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/webapp/jsp/registerFailure.jsp
+END
+createPostField.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Summer2011/!svn/ver/2615/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/webapp/jsp/createPostField.jsp
+END
+registered.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/Summer2011/!svn/ver/2615/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/webapp/jsp/registered.jsp
+END
+loginHome.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/Summer2011/!svn/ver/2615/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/webapp/jsp/loginHome.jsp
+END
+postTemplate.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Summer2011/!svn/ver/2615/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/webapp/jsp/postTemplate.jsp
+END
+loginError.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/Summer2011/!svn/ver/2615/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/webapp/jsp/loginError.jsp
+END
+registerUser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Summer2011/!svn/ver/2957/Phil%20Hartley/CSC263%20SU11045/Iggy%20Krajci/TheMessageBoard/src/main/webapp/jsp/registerUser.jsp
+END

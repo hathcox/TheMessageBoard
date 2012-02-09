@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE struts PUBLIC 
+    "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+    "http://struts.apache.org/dtds/struts-2.0.dtd">
+
+<struts>
+	<package name="myPackage" extends="struts-default">
+	
+		<action name="createUser" class="createUserAction" method="execute"> 
+			<result name="input">/jsp/registerUser.jsp</result>
+			<result name="success">/jsp/registered.jsp</result>
+			<result name="error">/jsp/registerFailure.jsp</result>
+		</action>
+		
+		<action name="LoginUser" class="LoginUserAction" method="execute">
+			<result name="input">/jsp/loginUser.jsp</result>
+			<result name="success">/jsp/loginHome.jsp</result>
+			<result name="error">/jsp/loginError.jsp</result>
+		</action>
+		
+		<action name="ListBoards" method="execute" class="ListBoardsAction">
+            <result>/jsp/listBoards.jsp</result>
+        </action>
+        
+        <action name="CreatePost" class="CreatePostAction" method="execute">
+        	<result name="input">/jsp/b/testBoard.jsp</result>
+        	<result name="success">/jsp/b/testBoard.jsp</result>
+        	<result name="error">/jsp/b/testBoard.jsp</result>      
+        </action>
+        
+		<action name="CreateComment" class="CreateCommentAction" method="execute">
+        	<result name="input">/jsp/b/testBoard.jsp</result>
+        	<result name="success">/jsp/b/testBoard.jsp</result>
+        	<result name="error">/jsp/b/testBoard.jsp</result>      
+        </action>
+        
+	</package>
+</struts>
